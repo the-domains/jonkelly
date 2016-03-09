@@ -1,0 +1,28 @@
+name: jonkelly
+favicon: null
+layout_spectrum: 0.2711433791555464
+typography_spectrum: 0.5612557244021446
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.7745509610977024
+  lightness: 0.25523730204440653
+  saturation: 0.1025535964872688
+  rhythmicContrast: 0.7674572861287743
+purpose: []
